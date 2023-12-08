@@ -1,0 +1,10 @@
+D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\bin\Debug\TEST_1.exe.config
+D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\bin\Debug\TEST_1.exe
+D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\bin\Debug\TEST_1.pdb
+D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.csproj.AssemblyReference.cache
+D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.HomePage.resources
+D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.Properties.Resources.resources
+D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.csproj.GenerateResource.cache
+D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.csproj.CoreCompileInputs.cache
+D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.exe
+D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.pdb
