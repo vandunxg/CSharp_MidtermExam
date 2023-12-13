@@ -157,6 +157,7 @@
             // 
             // btn_Add
             // 
+            this.btn_Add.Enabled = false;
             this.btn_Add.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Add.Location = new System.Drawing.Point(188, 691);
             this.btn_Add.Name = "btn_Add";
@@ -168,6 +169,7 @@
             // 
             // btn_Edit
             // 
+            this.btn_Edit.Enabled = false;
             this.btn_Edit.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Edit.Location = new System.Drawing.Point(351, 691);
             this.btn_Edit.Name = "btn_Edit";
@@ -178,6 +180,7 @@
             // 
             // btn_Del
             // 
+            this.btn_Del.Enabled = false;
             this.btn_Del.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Del.Location = new System.Drawing.Point(530, 691);
             this.btn_Del.Name = "btn_Del";
@@ -188,6 +191,7 @@
             // 
             // btn_Save
             // 
+            this.btn_Save.Enabled = false;
             this.btn_Save.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Save.Location = new System.Drawing.Point(722, 691);
             this.btn_Save.Name = "btn_Save";
@@ -195,9 +199,11 @@
             this.btn_Save.TabIndex = 15;
             this.btn_Save.Text = "Lưu";
             this.btn_Save.UseVisualStyleBackColor = true;
+            this.btn_Save.Click += new System.EventHandler(this.btn_Save_Click);
             // 
             // btn_Skip
             // 
+            this.btn_Skip.Enabled = false;
             this.btn_Skip.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Skip.Location = new System.Drawing.Point(905, 691);
             this.btn_Skip.Name = "btn_Skip";

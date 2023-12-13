@@ -8,3 +8,13 @@ D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.csproj.GenerateResource.
 D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.csproj.CoreCompileInputs.cache
 D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.exe
 D:\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.pdb
+C:\Users\vandunxg\Documents\CODE\C#\CSharp_MidtermExam\TEST_1\TEST_1\bin\Debug\TEST_1.exe.config
+C:\Users\vandunxg\Documents\CODE\C#\CSharp_MidtermExam\TEST_1\TEST_1\bin\Debug\TEST_1.exe
+C:\Users\vandunxg\Documents\CODE\C#\CSharp_MidtermExam\TEST_1\TEST_1\bin\Debug\TEST_1.pdb
+C:\Users\vandunxg\Documents\CODE\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.csproj.AssemblyReference.cache
+C:\Users\vandunxg\Documents\CODE\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.HomePage.resources
+C:\Users\vandunxg\Documents\CODE\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.Properties.Resources.resources
+C:\Users\vandunxg\Documents\CODE\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.csproj.GenerateResource.cache
+C:\Users\vandunxg\Documents\CODE\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.csproj.CoreCompileInputs.cache
+C:\Users\vandunxg\Documents\CODE\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.exe
+C:\Users\vandunxg\Documents\CODE\C#\CSharp_MidtermExam\TEST_1\TEST_1\obj\Debug\TEST_1.pdb
